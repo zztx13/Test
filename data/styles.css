@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
 }
 ._一级标题 {
@@ -62,6 +64,12 @@
   text-align:left;
 }
 .line {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
 }
 .table_cell {
 }

@@ -82,3 +82,40 @@
 }
 .icon {
 }
+._形状 {
+}
+.image {
+}
+.line1 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.placeholder {
+}
+.link_button {
+  color:#169BD5;
+}
+.button {
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}

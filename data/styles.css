@@ -13,7 +13,10 @@
 }
 .box_3 {
 }
-.ellipse {
+._图片 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -63,59 +66,7 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
-}
-.checkbox {
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
-}
-.table_cell {
-}
-.sticky_3 {
-  text-align:left;
-}
 ._流程形状 {
 }
-._图片 {
-}
-.icon {
-}
-._形状 {
-}
-.image {
-}
-.line1 {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.label1 {
-  font-size:14px;
-  text-align:left;
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_field1 {
-  color:#000000;
-  text-align:left;
-}
-.placeholder {
-}
-.link_button {
-  color:#169BD5;
-}
-.button {
-}
-._连接线 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
+.line {
 }

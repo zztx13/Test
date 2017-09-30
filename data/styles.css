@@ -11,9 +11,12 @@
 }
 .box_2 {
 }
-.image {
+.box_3 {
 }
-.button {
+._图片 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -35,7 +38,6 @@
   font-style:normal;
   font-size:18px;
   text-align:left;
-  line-height:22px;
 }
 ._四级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -63,9 +65,8 @@
 }
 ._文本段落 {
   text-align:left;
-  line-height:24px;
-}
-.line {
 }
 ._流程形状 {
+}
+.line {
 }

@@ -9,13 +9,9 @@
 }
 .box_1 {
 }
-.box_2 {
-}
 .box_3 {
 }
-.ellipse {
-}
-._图片 {
+.image {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -65,21 +61,18 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
-}
 ._流程形状 {
 }
-._连接线 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
+.line {
 }
-.sticky_3 {
+.checkbox {
   text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .icon {
 }

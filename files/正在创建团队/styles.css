@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u30_img {
+#u32_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:375px;
   height:667px;
 }
-#u30 {
+#u32 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:375px;
   height:667px;
 }
-#u30_text {
+#u32_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u31_div {
+#u33_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -52,7 +52,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u31 {
+#u33 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -60,7 +60,7 @@
   width:375px;
   height:592px;
 }
-#u31_text {
+#u33_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,7 +69,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u32_div {
+#u34_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -87,7 +87,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u32 {
+#u34 {
   border-width:0px;
   position:absolute;
   left:38px;
@@ -95,7 +95,7 @@
   width:300px;
   height:170px;
 }
-#u32_text {
+#u34_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +104,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u33_img {
+#u35_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -112,7 +112,7 @@
   width:76px;
   height:76px;
 }
-#u33 {
+#u35 {
   border-width:0px;
   position:absolute;
   left:150px;
@@ -120,7 +120,7 @@
   width:76px;
   height:76px;
 }
-#u33_text {
+#u35_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -129,7 +129,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u34_div {
+#u36_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -145,7 +145,7 @@
   box-shadow:none;
   font-size:20px;
 }
-#u34 {
+#u36 {
   border-width:0px;
   position:absolute;
   left:107px;
@@ -154,7 +154,7 @@
   height:20px;
   font-size:20px;
 }
-#u34_text {
+#u36_text {
   border-width:0px;
   position:absolute;
   left:0px;
